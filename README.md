@@ -1,5 +1,5 @@
 
-# Samle Apache Ignite docker-compose
+# Sample Apache Ignite docker-compose
 
 This is a sample docker-compose.yml for Apache Ignite with default Spring configuration and a persitience storage dir.
 
